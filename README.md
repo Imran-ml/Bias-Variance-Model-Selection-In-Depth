@@ -23,10 +23,21 @@ Explore advanced model selection techniques, including K-Fold Cross-Validation a
 Parts of this notebook borrow from, or are inspired by, the following
 sources:
 
--   The Introduction section is based on [Hyperparameters and Model Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model validation.html), in the Python Data Science Handbook by Jake VanderPlas
--   The section on polynomial models is based on [the model order selection demo notebook] (https://colab.research.google.com/github/sdrangan/introml/blob/master/unit04_model_sel/demo_polyfit.ipynb) by Prof. Sundeep Rangan, and some of the text in that section is copied from that notebook.
--   The section on uninformative features is based on [Cross Validation:The Right and Wrong Way](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_10_cross_val.ipynb) from [Harvard CS109 Data Science](https://github.com/cs109/content)
--   The simulation plots are based on the `scikit-learn` example [Single estimator versus bagging: bias-variance decomposition](https://scikit learn.org/stable/auto_examples/ensemble/plot_bias_variance.html#sphx-glr-auto-examples-ensemble-plot-bias-variance-py)
+-   The Introduction section is based on [Hyperparameters and Model
+    Validation](https://jakevdp.github.io/PythonDataScienceHandbook/05.03-hyperparameters-and-model-validation.html),
+    in the Python Data Science Handbook by Jake VanderPlas
+-   The section on polynomial models is based on [the model order
+    selection demo
+    notebook](https://colab.research.google.com/github/sdrangan/introml/blob/master/unit04_model_sel/demo_polyfit.ipynb)
+    by Prof. Sundeep Rangan, and some of the text in that section is
+    copied from that notebook.
+-   The section on uninformative features is based on [Cross Validation:
+    The Right and Wrong
+    Way](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_10_cross_val.ipynb)
+    from [Harvard CS109 Data Science](https://github.com/cs109/content)
+-   The simulation plots are based on the `scikit-learn` example [Single
+    estimator versus bagging: bias-variance
+    decomposition](https://scikit-learn.org/stable/auto_examples/ensemble/plot_bias_variance.html#sphx-glr-auto-examples-ensemble-plot-bias-variance-py)
 
 ## Environment Setup
 
