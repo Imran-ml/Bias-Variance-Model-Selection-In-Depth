@@ -85,18 +85,24 @@ To use this project, clone the repository and set up the environment as follows:
 ## Evaluation
 
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/e7cff7f8-0dc7-406d-b46f-9686c04dda59)
+
 This is an example of under-fitting or under-modeling. The estimated function is not able to capture the complexity of the relation between  x and  y - it is not flexible enough.
 
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/bb9fad55-a952-479a-b27a-1bd547a4e751)
+
 This is called over-fitting or over-modeling. Because the model is very flexible, it is fitting the noise in the data and not the underlying relationship  y=t(x).
 
 
 The following plot shows the coefficient value for each feature:
+
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/8253fbb7-59e8-4a13-8c56-8897d6792b54)
+
 
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/b4d64d4f-e074-4b75-ac5c-aa5f97921e1e)
 
+
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/7acea43b-af85-4c14-99ba-064c65c46ca4)
+
 
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/84c7268b-4920-4363-be01-66d16caf6401)
 
@@ -105,7 +111,9 @@ The following plot shows the coefficient value for each feature:
 
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/82ca66ab-1ec4-412f-8302-c0185cfc0514)
 
+
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/90527a0a-4832-4660-9c28-3dfb69e6f038)
+
 
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/e7323127-08dc-4fad-87c7-e86985dcf48e)
 
@@ -113,10 +121,8 @@ The following plot shows the coefficient value for each feature:
 
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/1852a966-656d-4778-bae0-529b72f4a3a0)
 
+
 ![image](https://github.com/Imran-ml/Bias-Variance-Model-Selection-In-Depth/assets/149146155/30bb7448-0112-49d2-aef8-260d141225da)
-
-
-
 
 
 
